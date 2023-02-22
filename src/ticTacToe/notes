@@ -1,0 +1,11 @@
+There are ttwo ways to define a package:
+
+Layer wise/Layer driven - > Repository, Controller, Service, Models, utilities. factory etc
+
+
+2. Feature wise / domain driven ->
+
+../user/ccntroller
+../user/repository
+../user/model
+..user/service
